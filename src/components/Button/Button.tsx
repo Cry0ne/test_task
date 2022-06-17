@@ -17,7 +17,6 @@ const StyledButton = styled.button`
     
     &:hover{
         background-color: #364ec9;
-
     }
     &:active{
         background-color: #2b3fa1;
@@ -43,7 +42,6 @@ const StyledButtonGray = styled.button`
     
     &:hover{
         background-color: #dbdbdb;
-
     }
     &:active{
         background-color: #afafaf;
