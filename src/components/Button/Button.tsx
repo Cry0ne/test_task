@@ -1,7 +1,6 @@
-import React from 'react';
 import { ButtonProps } from './Button.props';
+import { baseTheme } from '../../styles/global';
 import styled from 'styled-components';
-import { baseTheme } from '../../styles/global'
 
 
 const StyledButton = styled.button`
