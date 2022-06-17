@@ -15,6 +15,6 @@ const StyledLogo = styled.label`
 export const Logo = () => {
     return (
         <StyledLogo>
-            ONLY.
+            LOGO
         </StyledLogo>)
 };
